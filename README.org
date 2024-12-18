@@ -1,2 +1,5 @@
 #+title: Doom Config
-Work in progress.
+#+begin_src sh
+git clone git@github.com:uglyhott/doom.git ~/.doom.d
+~/emacs.d/bin/doom sync
+#+end_src
